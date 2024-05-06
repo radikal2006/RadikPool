@@ -1,0 +1,26 @@
+{
+  "name": "45-1-kvodn",
+  "version": "1.0.0",
+  "description": "Translate text or speech between languages with accuracy and speed.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atthewsx199/451Language-Translation-Tool.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "atthewsx199",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "latest",
+    "axios": "latest"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
